@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+TweakOrder: 0
+MixinConfigs: mixins.aehax.json
+FMLCorePluginContainsFMLMod: true
+FMLAT: aehax_at.cfg
+tweakClass: org.spongepowered.asm.launch.MixinTweaker
+ForceLoadAsMod: true
+FMLCorePlugin: me.crimp.claudius.mixin.CrimpLoader
+

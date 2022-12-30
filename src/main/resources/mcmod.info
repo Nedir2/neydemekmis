@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "aehack+",
+    "name": "Aehack+",
+    "description": "türko yapım",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "logoFile": "",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "CumHax"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]

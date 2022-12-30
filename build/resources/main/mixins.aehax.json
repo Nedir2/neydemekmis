@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.cumhax.aehack.mixins.mixins",
+  "refmap": "mixins.aehax.refmap.json",
+  "mixins": [
+    "MixinEntityPlayerSP",
+    "MixinGuiScreen",
+    "MixinNetworkManager"
+  ]
+}
